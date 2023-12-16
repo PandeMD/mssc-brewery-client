@@ -15,7 +15,7 @@ public class BeerDto
 {
 
 	private UUID id;
-	private String beeName;
+	private String beerName;
 	private String beerStyle;
 	private Long upc;
 
